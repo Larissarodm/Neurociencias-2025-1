@@ -1,2 +1,3 @@
 # Escribir sus repositorios con el siguiente formato
 Nombre - repositorio url
+Larissa Rodríguez - https://github.com/Larissarodm/Repo-oficial?tab=readme-ov-file#tareas-y-trabajos-de-modelos-computacionales
